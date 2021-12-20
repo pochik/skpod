@@ -13,9 +13,6 @@
 ##### OMP
 `python job_loader_pl.py -omp` 
 
-##### OMP
-`python job_loader_bg.py -omp` 
-
 #### Сбор результатов
 `python results_collector.py` 
 
