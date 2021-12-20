@@ -13,10 +13,6 @@
 ##### OMP
 `python job_loader_pl.py -omp` 
 
-#### BlueGene
-##### MPI 
-`python job_loader_bg.py -mpi`
-
 ##### OMP
 `python job_loader_bg.py -omp` 
 
